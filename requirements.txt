@@ -1,4 +1,5 @@
 pinecone
+python-dotenv
 openai
 langchain-community
 pypdf
